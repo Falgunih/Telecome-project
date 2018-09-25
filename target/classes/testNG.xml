@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GURU99TELECOME  Application Test Automation Test Suite">
+
+	
+
+	<test name="GURU99TELECOME Regression Test Cases">
+		<classes>
+			<class name="com.demotelecom.tests.guru99TChomepagTest"></class>
+            <class name="com.demotelecom.tests.guru99TCaddcustomerTest"></class>
+            <class name="com.demotelecom.tests.guru99TCAddTariffPlanToCustTest"></class>
+            <class name="com.demotelecom.tests.guru99TCpayBillTest"></class>
+
+		</classes>
+	</test>
+</suite>

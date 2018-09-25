@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="153102" started-at="2018-09-25T07:29:34Z" finished-at="2018-09-25T07:32:07Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="153102" started-at="2018-09-25T07:29:34Z" finished-at="2018-09-25T07:32:07Z">
+      <class name="com.demotelecom.tests.guru99TCpayBillTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demotelecom.tests.guru99TCpayBillTest@2c6a3f77]" name="setup" is-config="true" duration-ms="17366" started-at="2018-09-25T01:31:37Z" finished-at="2018-09-25T01:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyguru99TCpaBillTest()[pri:0, instance:com.demotelecom.tests.guru99TCpayBillTest@2c6a3f77]" name="verifyguru99TCpaBillTest" duration-ms="12200" started-at="2018-09-25T01:31:55Z" finished-at="2018-09-25T01:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyguru99TCpaBillTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demotelecom.tests.guru99TCpayBillTest@2c6a3f77]" name="teardown" is-config="true" duration-ms="14" started-at="2018-09-25T01:32:07Z" finished-at="2018-09-25T01:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demotelecom.tests.guru99TCpayBillTest -->
+      <class name="com.demotelecom.tests.guru99TCaddcustomerTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demotelecom.tests.guru99TCaddcustomerTest@180bc464]" name="setup" is-config="true" duration-ms="10972" started-at="2018-09-25T01:31:01Z" finished-at="2018-09-25T01:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyaddcusomerpageTest()[pri:0, instance:com.demotelecom.tests.guru99TCaddcustomerTest@180bc464]" name="verifyaddcusomerpageTest" duration-ms="9039" started-at="2018-09-25T01:31:12Z" finished-at="2018-09-25T01:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddcusomerpageTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demotelecom.tests.guru99TCaddcustomerTest@180bc464]" name="teardown" is-config="true" duration-ms="528" started-at="2018-09-25T01:31:21Z" finished-at="2018-09-25T01:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demotelecom.tests.guru99TCaddcustomerTest -->
+      <class name="com.demotelecom.tests.guru99TCAddTariffPlanTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demotelecom.tests.guru99TCAddTariffPlanTest@246ae04d]" name="setup" is-config="true" duration-ms="29325" started-at="2018-09-25T01:29:34Z" finished-at="2018-09-25T01:30:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyguru99TCAddTariffPlanTest()[pri:0, instance:com.demotelecom.tests.guru99TCAddTariffPlanTest@246ae04d]" name="verifyguru99TCAddTariffPlanTest" duration-ms="21155" started-at="2018-09-25T01:30:03Z" finished-at="2018-09-25T01:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyguru99TCAddTariffPlanTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demotelecom.tests.guru99TCAddTariffPlanTest@246ae04d]" name="teardown" is-config="true" duration-ms="3840" started-at="2018-09-25T01:30:24Z" finished-at="2018-09-25T01:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demotelecom.tests.guru99TCAddTariffPlanTest -->
+      <class name="com.demotelecom.tests.guru99TChomepagTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demotelecom.tests.guru99TChomepagTest@735f7ae5]" name="setup" is-config="true" duration-ms="14962" started-at="2018-09-25T01:31:22Z" finished-at="2018-09-25T01:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyguru99TChomepag()[pri:0, instance:com.demotelecom.tests.guru99TChomepagTest@735f7ae5]" name="verifyguru99TChomepag" duration-ms="843" started-at="2018-09-25T01:31:37Z" finished-at="2018-09-25T01:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyguru99TChomepag -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demotelecom.tests.guru99TChomepagTest@735f7ae5]" name="teardown" is-config="true" duration-ms="11" started-at="2018-09-25T01:31:37Z" finished-at="2018-09-25T01:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demotelecom.tests.guru99TChomepagTest -->
+      <class name="com.demotelecom.tests.guru99TCAddTariffPlanToCustTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demotelecom.tests.guru99TCAddTariffPlanToCustTest@1324409e]" name="setup" is-config="true" duration-ms="21011" started-at="2018-09-25T01:30:28Z" finished-at="2018-09-25T01:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyATPTCTest()[pri:0, instance:com.demotelecom.tests.guru99TCAddTariffPlanToCustTest@1324409e]" name="verifyATPTCTest" duration-ms="10731" started-at="2018-09-25T01:30:49Z" finished-at="2018-09-25T01:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyATPTCTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demotelecom.tests.guru99TCAddTariffPlanToCustTest@1324409e]" name="teardown" is-config="true" duration-ms="1026" started-at="2018-09-25T01:31:00Z" finished-at="2018-09-25T01:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demotelecom.tests.guru99TCAddTariffPlanToCustTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

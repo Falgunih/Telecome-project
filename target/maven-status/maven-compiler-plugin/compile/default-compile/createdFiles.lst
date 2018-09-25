@@ -1,0 +1,9 @@
+com\demotelecom\pages\guru99TCaddcustomerPage.class
+com\demotelecom\Utils\guru99utils.class
+com\demotelecom\pages\guru99TChomePage.class
+com\demotelecom\pages\guru99TCAddTariffPlanSmsgpage.class
+com\demotelecom\pages\guru99TCAddTariffPlan.class
+com\demotelecom\base\TestBase.class
+com\demotelecom\pages\guru99TCATPTCsuccessfulpage.class
+com\demotelecom\pages\guru99TCAddTariffPlanToCust.class
+com\demotelecom\pages\guru99TCPayBilllPage.class
